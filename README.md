@@ -73,5 +73,7 @@ summary.md (Insights)
 
 
 created by Chethan K
+
 email: chethan.k5611@gmail.com
+
 LinkedIn: linkedin.com/in/chethan-k-758114254
